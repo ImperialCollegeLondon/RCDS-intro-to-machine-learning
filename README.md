@@ -16,3 +16,15 @@ After attending this workshop, you will be better able to:
 * Prepare your own training and testing data sets.
 * Evaluate the performance of a machine learning experiment.
 
+
+## Installing Orange 3
+
+Please ensure that you have Orange 3 installed and working before the first session.
+
+The Anaconda data science platform includes Orange 3, and may be the easiest way to install: https://www.anaconda.com/ .
+
+Alternatively, you can install Orange 3 from https://orange.biolab.si/download .
+
+To check that everything is working properly, please follow the steps in this first tutorial video:
+[Getting Started with Orange 01: Welcome to Orange](https://www.youtube.com/watch?v=HXjnDIgGDuI)  .
+
