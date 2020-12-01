@@ -41,15 +41,15 @@ Click on "Enroll for free", then "Audit the course" at the bottom of the pop-up 
 
 ### Mathematics for Machine Learning
 
-[1. Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
-[2. Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
-[3. PCA](https://www.coursera.org/learn/pca-machine-learning)
+1. [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+2. [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+3. [PCA](https://www.coursera.org/learn/pca-machine-learning)
 
 
 ### TensorFlow 2 for Deep Learning 
 
-[1. Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
-[2. Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
-[3. Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)
+1. [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+2. [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
+3. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)
 
 
