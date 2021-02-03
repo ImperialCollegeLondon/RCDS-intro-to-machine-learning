@@ -29,6 +29,21 @@ To check that everything is working properly, please follow the steps in this fi
 [Getting Started with Orange 01: Welcome to Orange](https://www.youtube.com/watch?v=HXjnDIgGDuI)  .
 
 
+## Suggested reading
+
+Müller AC & Guido S, Introduction to Machine Learning with Python
+http://ebookcentral.proquest.com/lib/imperial/detail.action?docID=4698164
+
+Burger SV, Introduction to Machine Learning With R
+https://www.oreilly.com/library/view/introduction-to-machine/9781491976432/
+
+Nielsen M, Neural Networks and Deep Learning
+http://neuralnetworksanddeeplearning.com/index.html
+
+Tutorials and examples at
+https://scikit-learn.org/
+https://www.kaggle.com 
+
 
 ## After the course
 
