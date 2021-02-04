@@ -68,3 +68,6 @@ Click on "Enroll for free", then "Audit the course" at the bottom of the pop-up 
 3. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)
 
 
+## Credits
+
+Cat and dog photos taken from [unsplash](https://unsplash.com)
