@@ -69,6 +69,6 @@ Click on "Enroll for free", then "Audit the course" at the bottom of the pop-up 
 
 ---
 
-## Credits
+#### Credits
 
 Cat and dog photos taken from [unsplash](https://unsplash.com)
