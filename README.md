@@ -67,6 +67,7 @@ Click on "Enroll for free", then "Audit the course" at the bottom of the pop-up 
 2. [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
 3. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)
 
+---
 
 ## Credits
 
