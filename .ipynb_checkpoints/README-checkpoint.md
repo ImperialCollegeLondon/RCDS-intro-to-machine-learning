@@ -28,3 +28,31 @@ Alternatively, you can install Orange 3 from https://orange.biolab.si/download .
 To check that everything is working properly, please follow the steps in this first tutorial video:
 [Getting Started with Orange 01: Welcome to Orange](https://www.youtube.com/watch?v=HXjnDIgGDuI)  .
 
+<<<<<<< Updated upstream
+=======
+
+
+## After the course
+
+This course will give you an initial overview of the key concepts in machine learning, and should help you to get started with your own projects. 
+
+If you want to get deeper into the theory and practice of machine learning, Imperial has a number of online courses that are available for free on Coursera. 
+
+Click on "Enroll for free", then "Audit the course" at the bottom of the pop-up window. 
+
+
+### Mathematics for Machine Learning
+
+1. [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+2. [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+3. [PCA](https://www.coursera.org/learn/pca-machine-learning)
+
+
+### TensorFlow 2 for Deep Learning 
+
+1. [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+2. [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
+3. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)
+
+
+>>>>>>> Stashed changes
