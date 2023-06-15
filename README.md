@@ -27,7 +27,7 @@ To check that everything is working properly, please follow the steps in this fi
 [Getting Started with Orange 01: Welcome to Orange](https://www.youtube.com/watch?v=HXjnDIgGDuI)  .
 
 
-## Suggested reading
+## Suggested post-course reading
 
 [Müller AC & Guido S, Introduction to Machine Learning with Python](http://ebookcentral.proquest.com/lib/imperial/detail.action?docID=4698164)
 
@@ -38,7 +38,7 @@ To check that everything is working properly, please follow the steps in this fi
 Tutorials and examples at [scikit-learn](https://scikit-learn.org/) and [Kaggle](https://www.kaggle.com)
 
 
-## After the course
+## Further learning
 
 This course will give you an initial overview of the key concepts in machine learning, and should help you to get started with your own projects. 
 
